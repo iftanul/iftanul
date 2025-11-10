@@ -1,26 +1,17 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ibnu🙌&size=28)
+  
 
-<!--
-**iftanul/iftanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I’m a **fresh graduate in Mathematics** with a strong interest in data science & data analysis.   I’m currently sharpening my skills in **Python, SQL, Exploratory Data Analysis, and Machine Learning** through a bootcamp dibimbing.id.  
-
-💡 I love solving problems with **data-driven reasoning, mathematical modeling, and predictive analytics**.  
-🌱 **Learning:** EDA, Dashboarding, Machine Learning, and Finance Analytics  
-💼 **Goal:** Build impactful solutions as a Data Scientist, blending math intuition with real world data  
+💡I love solving problems with **data-driven reasoning, mathematical modeling, and predictive analytics**.  
+📚 **I'm currently learning** Python, SQL, EDA, Dashboarding, and Machine Learning in ([dibimbing.id](https://dibimbing.id)) 
 📊 **Interests:** Finance, Trading Analytics, Business Insights, Machine Learning Applications  
 
+##### SKILLS
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+
 📫 **Let’s connect:**  
-- [LinkedIn](http://www.linkedin.com/in/iftanul-ibnu)  
-- [Email](mailto:iftanularemania10@gmail.com)
+![http://www.linkedin.com/in/iftanul-ibnu](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://wa.me/6281226128659](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![https://www.instagram.com/marssnovel/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
