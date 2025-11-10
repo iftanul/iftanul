@@ -2,7 +2,9 @@
   
 
 💡 • I love solving problems with **data-driven reasoning, mathematical modeling, and predictive analytics**.  
+
 📚 • **I'm currently learning** Python, SQL, EDA, Dashboarding, and Machine Learning in ([dibimbing.id](https://dibimbing.id)).
+
 📊 • **Interests:** Finance, Trading Analytics, Business Insights, Machine Learning Applications. 
 
 ###
