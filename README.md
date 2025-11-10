@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ibnu🙌&size=28)
   
 
-💡I love solving problems with **data-driven reasoning, mathematical modeling, and predictive analytics**.  
-📚 **I'm currently learning** Python, SQL, EDA, Dashboarding, and Machine Learning in ([dibimbing.id](https://dibimbing.id)).
-📊 **Interests:** Finance, Trading Analytics, Business Insights, Machine Learning Applications. 
+💡 • I love solving problems with **data-driven reasoning, mathematical modeling, and predictive analytics**.  
+📚 • **I'm currently learning** Python, SQL, EDA, Dashboarding, and Machine Learning in ([dibimbing.id](https://dibimbing.id)).
+📊 • **Interests:** Finance, Trading Analytics, Business Insights, Machine Learning Applications. 
 
 ###
 
