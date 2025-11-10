@@ -1,4 +1,4 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ibnu🙌&size=28)
 
 <!--
 **iftanul/iftanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m a **fresh graduate in Mathematics** with a strong interest in data science & data analysis.   I’m currently sharpening my skills in **Python, SQL, Exploratory Data Analysis, and Machine Learning** through a bootcamp dibimbing.id.  
+
+💡 I love solving problems with **data-driven reasoning, mathematical modeling, and predictive analytics**.  
+🌱 **Learning:** EDA, Dashboarding, Machine Learning, and Finance Analytics  
+💼 **Goal:** Build impactful solutions as a Data Scientist, blending math intuition with real world data  
+📊 **Interests:** Finance, Trading Analytics, Business Insights, Machine Learning Applications  
+
+📫 **Let’s connect:**  
+- [LinkedIn](http://www.linkedin.com/in/iftanul-ibnu)  
+- [Email](mailto:iftanularemania10@gmail.com)
